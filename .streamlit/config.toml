@@ -1,0 +1,7 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+# Avoid Streamlit probing every optional Transformers image module. The app does
+# not need automatic source reloads while it is being used.
+fileWatcherType = "none"
