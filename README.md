@@ -2,6 +2,8 @@
 
 Search a whole YouTube playlist, get an answer grounded in captions, and open the exact moment that supports it.
 
+Demo Video Link : https://drive.google.com/file/d/10fnfuvjTc8oAMObsKz5DfuXyPzeVISVH/view?usp=sharing
+
 ## What it does
 
 - Imports every public video from a playlist.
